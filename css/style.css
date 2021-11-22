@@ -345,8 +345,8 @@ i:hover {
         display: block;
         cursor: pointer;
         position: absolute;
-        right: 15px;
-        top: 30px;
+        left: 15px;
+        top: 25px;
     }
     .hamburger.active .bar:nth-child(2) {
         opacity: 0;
