@@ -26,7 +26,7 @@ window.onload = function() {
 }
 
 
-//mobile/small screen menu
+//small screen menu
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-list");
 
